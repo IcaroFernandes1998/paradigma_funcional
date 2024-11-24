@@ -7,7 +7,7 @@ Nosso grupo ficou responsável pelo Paradigma Funcional, e nossa linguagem utili
 ## 👥 Participantes
 - 👩‍🏫 Profesora Kadidja Valéria
 - 👤 Everman | RGM: 30333717
-- 👤 Ícaro | RGM: 31335519
+- 👤 Ícaro Fernandes | RGM: 31335519
 - 👤 José Henrique | RGM: 30525187
 - 👤 Julio Augusto | RGM: 30132401
 - 👤 Lucas Pereira | RGM: 30176701
